@@ -1,3 +1,9 @@
+### Hi there, I'm seoyoung! 👋
+- 👩‍🎓 I'm a student at Duksung Women's University, Department of Computer Engineering.
+- 🌱 I'm interested in back-end development. So, I'm currently learning Spring boot and node.js
+
+<br>
+
 <h3 align="center"> ⚒ Tech Stack ⚒ </h3>
 <h4 align="center"> Techs that I've used at least once </h4>
 
