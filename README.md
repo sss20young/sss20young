@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://www.instagram.com/sss20_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
   <a href="https://www.facebook.com/seoyoungKim.sss20.0/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:ksyt98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/%EC%84%9C%EC%98%81-%EA%B9%80-388549190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
 </p>
 
